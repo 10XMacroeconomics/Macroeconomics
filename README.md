@@ -17,7 +17,7 @@ This repository is a data science project that was created by [**Explore Data Sc
 4. Can we automate the collection and quantification process?
 
 The repo contains: 
-1. [Wiki](https://github.com/10XMacroeconomics/Macroeconomics/wiki) where details of what the project scpoe can be found.
+1. [Wiki](https://github.com/10XMacroeconomics/Macroeconomics/wiki) where details of what the project scope can be found.
 2. A [project board](https://github.com/10XMacroeconomics/Macroeconomics/projects) with a breakdown of tasks associated.
 3. Code and scripts done in python.
 4. Links for additional data.
